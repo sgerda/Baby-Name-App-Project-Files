@@ -1,2 +1,2 @@
 # Baby-Name-Popularity
-Demo app tracking the popularity of baby names
+These are the files for the Baby Name App DVM project
